@@ -3,6 +3,7 @@ provider "aws" {
   region  = ap-south-1
 }
 
+*/
 # configure backend
 terraform {
   backend "s3" {
@@ -12,7 +13,7 @@ terraform {
 
   }
 }
-
+/*
 
 
 
