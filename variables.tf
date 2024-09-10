@@ -37,7 +37,7 @@ variable "type" {
 
 # Key 
 variable "key_name" {
-  default = "DevSecOps"
+  default = "DevOps"
 }
 
 # Instance count
